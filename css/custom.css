@@ -1,0 +1,57 @@
+.listGroupBorderRadius{
+    border-radius: 20px!important;
+}
+.imgDiv {
+    float: left;
+    margin-top: 0!important;
+}
+.userImage {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
+.blogDetailsCommentCard {
+    background-color: white;
+    padding: 20px 25px 20px 25px;
+    border-radius: 0;
+    border-color: #fafafa !important;
+}
+.commentsTitle {
+    font-size: 18px;
+    color: #4a4a4a!important;
+    margin-bottom: 15px;
+    font-family: 'Roboto', sans-serif;
+    text-decoration: none!important;
+}
+.conversationContent {
+    margin-left: 65px;
+}
+.conversationContent span {
+    display: inline-block;
+    width: 49%;
+    margin-bottom: 5px;
+}
+.conversationContentDate {
+    text-align: right;
+    font-size: 11px;
+    color: #b4b7c1;
+    font-family: 'Roboto', sans-serif;
+}
+.conversationDes {
+    font-size: 14px;
+    color: #393d43;
+    display: block;
+    padding: 5px 0 20px 0;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+}
+.UserBtn{
+    font-weight: 300;
+    font-size: 12px;
+    font-family: 'Roboto', sans-serif;
+    padding: 0 8px 0 8px!important;
+}
+.UserBtn:focus{
+    box-shadow: none!important;
+}
+
